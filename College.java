@@ -12,7 +12,7 @@ import lombok.ToString;
 @Setter
 @ToString
 //changes the entity name
-//@Entity(name = "college-data")
+//(name = "college-data")
 @Entity
 //changes only the table name
 @Table(name="college-data")
