@@ -16,7 +16,7 @@ public class App
 //        College college=new College();
 //        college.setCId(1002);
 //        college.setName("BVCk");
-//        college.setDepartment("CSE");
+//        college.setDepartment("Cse");
 //
 //        SessionFactory factory=new Configuration()
 //                .addAnnotatedClass(crud.hibernate.College.class)
