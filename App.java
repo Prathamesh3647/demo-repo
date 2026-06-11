@@ -12,7 +12,7 @@ public class App
 {
     public static void main( String[] args ) {
 
-//        //to add the data:-
+//        //to add the data:
 //        College college=new College();
 //        college.setCId(1002);
 //        college.setName("BVCk");
